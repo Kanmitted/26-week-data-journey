@@ -1,65 +1,74 @@
-# Week 1 — Setup and Excel Power Refresh
+# Week 1 — Data Foundations: Excel Power Refresh
 
 ## Weekly Goal
 
-Set up the learning and portfolio tools, refresh key Excel skills, and build a one-page KPI report using the public Online Retail II dataset.
+Set up my learning environment and strengthen my Excel skills using a real-world e-commerce dataset.
 
-## Schedule
+## Setup Completed
 
-### Monday — Learn and practise (6 hours)
+- [x] GitHub account created
+- [x] 26-week-data-journey repository created
+- [ ] Kaggle account created
+- [ ] LinkedIn headline updated
+- [ ] Online Retail II dataset downloaded
 
-- Set up GitHub, Kaggle, LinkedIn, and the dataset.
-- Review Power Query, Pivot Tables, XLOOKUP, and INDEX-MATCH.
-- Load and clean the Online Retail II data in Power Query.
-- Practise merging queries and using XLOOKUP.
+## Excel Skills
 
-**Evidence:** Notes and practice files.
+This week I am learning and applying:
 
-### Wednesday — Drill (2 hours)
+- Power Query
+- Data cleaning
+- Query merging
+- Pivot Tables
+- XLOOKUP
+- INDEX-MATCH
+- Data Model
+- KPI reporting
 
-- Practise combining sheets with Power Query.
-- Continue cleaning Online Retail II, applying at least eight cleaning steps.
-- Complete GitHub Skills: Introduction to GitHub.
+## Dataset
 
-**Evidence:** Completed exercises.
+Online Retail II — real-world UK e-commerce transaction data.
 
-### Thursday — Apply (2 hours)
+## Data Cleaning
 
-- Review pivot tables, slicers, and refreshing.
-- Build four KPIs from the Data Model:
-  - Revenue
-  - Orders
-  - Average order value (AOV)
-  - Repeat-customer rate
+I will clean the dataset by:
 
-**Evidence:** Applied Excel work file.
+- Removing blank Customer IDs
+- Removing cancelled invoices
+- Setting correct data types
+- Creating Revenue = Quantity × Price
+- Applying multiple Power Query transformations
 
-### Saturday — Build and publish (6 hours)
+## Business KPIs
 
-- Build a one-page Excel KPI report.
-- Add a README describing the report and its results.
-- Publish the report and README to GitHub.
-- Complete the weekly review and write a LinkedIn post.
+I will calculate:
 
-**Deliverable:** Excel KPI report v1 on GitHub.
+1. Revenue
+2. Orders
+3. Average Order Value (AOV)
+4. Repeat Customer Rate
 
-## What I Learned
+## Week 1 Deliverable
 
-Add the Excel concepts, formulas, and techniques practised this week.
+A one-page Excel KPI report based on the Online Retail II dataset.
 
-## Results and Insights
+## Portfolio Evidence
 
-Record the four KPI values and any useful observations from the dataset. Explain how each KPI was calculated.
+I will publish:
 
-## Files and Links
+- Cleaned dataset/workbook
+- KPI report
+- Key business insights
+- README documentation
+- Weekly reflection
 
-- Practice files:
-- Applied work file:
-- Published KPI report:
-- LinkedIn post:
+## Key Learning
 
-## Weekly Reflection
+I will update this section as I complete the week's lessons and exercises.
 
-- What went well?
+## Reflection
+
+- What did I learn?
 - What was difficult?
-- What will I adjust next week?
+- What did I build?
+- What would I do differently?
