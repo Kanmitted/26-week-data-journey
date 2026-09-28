@@ -1,40 +1,8 @@
-# My 26-Week Data & AI Journey
-
-Welcome to my 26-week journey from Data Analytics to AI and Data Automation.
-
-## My Goal
-
-My goal is to develop the skills required to analyse business data, build dashboards, automate business processes, and use AI to solve real-world business problems.
-
-## Skills I'm Learning
-
-- Excel
-- SQL
-- Power BI
-- Python
-- Statistics
-- Artificial Intelligence
-- APIs
-- n8n
-- Data Automation
-- AI Agents
-
-## My 26-Week Roadmap
-
-| Phase | Focus |
-|---|---|
-| Weeks 1–4 | Excel & SQL |
-| Weeks 5–8 | SQL & Power BI |
-| Weeks 9–12 | Python & Statistics |
-| Weeks 13–16 | AI Fundamentals |
-| Weeks 17–20 | Automation & APIs |
-| Weeks 21–24 | AI Agents & Business Systems |
-| Weeks 25–26 | Portfolio & Career Preparation |
-
-## Projects
-
-I will document my projects, exercises, lessons, and progress here throughout the 26 weeks.
-
-## Career Goal
-
-To become an AI & Data Automation Specialist who can help businesses turn data into insights, automate repetitive processes, and make better decisions.
+| Phase | Weeks | Focus |
+|---|---:|---|
+| 1. Data Foundations | 1–4 | Excel and SQL |
+| 2. Power BI + Business Stats | 5–8 | Power BI, DAX, and business statistics |
+| 3. Python for Data | 9–13 | Python, pandas, data cleaning, visualisation, and APIs |
+| 4. Applied AI | 14–17 | LLM fundamentals, prompting, APIs, embeddings, and RAG |
+| 5. Automation & AI Agents | 18–22 | n8n, APIs, AI agents, and portfolio polish |
+| 6. Consulting & Launch | 23–26 | Client capstone, case study, service offers, and launch |
